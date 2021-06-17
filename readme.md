@@ -1,6 +1,6 @@
 # Weekly spending with Classes
 
-Hi, this is a project realized in course [JavaScript Moderno Guía Definitiva Construye +15 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). tThe objective of this project is that the user can manage his weekly expenses (adding, deleting expenses), and keep track of them.
+Hi, this is a project realized in course [JavaScript Moderno Guía Definitiva Construye +15 Proyectos](https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/). The objective of this project is that the user can manage his weekly expenses (adding, deleting expenses), and keep track of them.
 
 ## Technologies
 
